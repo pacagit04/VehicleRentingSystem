@@ -33,6 +33,7 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     'CustomerHome.apps.CustomerhomeConfig',
     'Owner.apps.OwnerConfig',
+
     'Manager.apps.ManagerConfig',
     'RentVehicle.apps.RentvehicleConfig',
     'Vehicles.apps.VehiclesConfig',
