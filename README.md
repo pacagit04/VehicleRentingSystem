@@ -3,7 +3,7 @@
 
 LOGINS
   
-  CUSTOMER LOGIN
+ CUSTOMER LOGIN
   Email - customer@gmail.com
   Password - 123456789
 
